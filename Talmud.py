@@ -5,7 +5,7 @@ Created on Sat Oct  9 12:31:53 2021
 @author: dobby
 
 """
-# MY分部
+
 #以题目为例，可修改 per 和 total
 
 """输入各个人需要的价钱"""
